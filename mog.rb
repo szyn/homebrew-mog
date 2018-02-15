@@ -5,7 +5,7 @@ class Mog < Formula
   version 'v0.1.6'
 
   url "https://github.com/szyn/mog/releases/download/#{version}/mog_darwin_amd64.tar.gz"
-  sha256 "991f8afb94d956cdf06ede967f95805a7f0895d936b3bd7a41067121092f4890"
+  sha256 "301224a414219961d3c86c941485a9d307829648f67c70f27e7e35471167d5c6"
 
   def install
     bin.install 'mog'
